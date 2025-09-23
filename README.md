@@ -1,45 +1,54 @@
-# 👋 Hi, I'm Gamana!
+# 👋 Hi, I’m Gamana  
 
-**Developer & Trainer • Problem Solver • Baker**
-
----
-
-### 🛠️ Skills & Technologies
-- **Languages & Frameworks:** C, C++, Java, Python, Django, Spring Boot
-- **Frontend:** HTML, CSS, JavaScript, React, Redux
-- **Tools:** Git
+Welcome to my GitHub profile! 🚀  
+I’m passionate about **software development, problem solving, and building impactful projects**.  
 
 ---
 
-### 🚀 Featured Projects
-
-- [Practicemealmate](https://github.com/Gamana/Practicemealmate)
-- [MealMatebuddy](https://github.com/Gamana/MealMatebuddy)
-- [FinalMealmate](https://github.com/Gamana/FinalMealmate)
-- [MealFinal](https://github.com/Gamana/MealFinal)
-- [MovieApi](https://github.com/Gamana/MovieApi)
-
-_Passionate about building apps that make everyday life easier!_
+## 🔥 About Me  
+- 💻 Enthusiastic developer exploring **Web Development, Python, Django, and React**  
+- 🎯 Interested in **Full-Stack Development & Cloud Technologies**  
+- 🌱 Currently learning **Advanced Django + REST APIs + DevOps tools**  
+- 🤝 Looking to collaborate on **open-source projects & innovative ideas**  
 
 ---
 
-### 🧩 About Me
+## 🛠️ Tech Stack  
 
-- 💡 I love tackling complex problems and sharing knowledge as a trainer.
-- 🥐 When I'm not coding, you'll find me baking up something delicious.
-- 🔎 Always exploring new technologies and creative solutions.
+**Languages:**  
+`Python` `JavaScript` `Java` `C++`
 
----
+**Frameworks & Libraries:**  
+`Django` `React` `Redux` `Bootstrap`
 
-<!-- Social links section: Uncomment and add if you want -->
-<!--
-### 🌐 Connect with me
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website](#)
--->
+**Databases & Tools:**  
+`MySQL` `PostgreSQL` `SQLite` `Git` `GitHub` `VS Code`
 
 ---
 
-> _“Code is like baking: the right ingredients, a pinch of creativity, and patience lead to something amazing!”_
+## 📌 Featured Projects  
 
+- 🛒 **E-Commerce Web App** – Full-stack application with cart, checkout & order tracking  
+- 🌐 **Portfolio Website** – Personal portfolio showcasing projects & skills  
+- 📊 **Expense Tracker** – Track and visualize income/expenses with charts  
+
+👉 Check out my repositories for more!  
+
+---
+
+## 📈 GitHub Stats  
+
+![Gamana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamana&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamana&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 Email: your.email@example.com  
+
+---
+
+⭐️ *Thanks for visiting my profile! Don’t forget to check out my repositories and leave a star if you find them useful.*  
