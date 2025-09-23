@@ -16,7 +16,7 @@ I’m passionate about **software development, problem solving, and building imp
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-`Python` `JavaScript` `Java` `C++`
+`Python` `JavaScript` `Java` 
 
 **Frameworks & Libraries:**  
 `Django` `React` `Redux` `Bootstrap`
