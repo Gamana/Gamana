@@ -7,7 +7,7 @@ Enthusiastic developer exploring Web Development, Python, Django, and React. Int
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamana&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamana&layout=compact&theme=radical)
 
-</div>
+</div> 
 
 ## 🚀 About Me
 
