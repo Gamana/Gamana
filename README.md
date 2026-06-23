@@ -1,76 +1,109 @@
-# Hi there, I'm Gamana! 👋
+<h1 align="center">Hi 👋, I'm Gamana</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 
-Enthusiastic developer exploring **Web Development**, **Python**, **Django**, and **React**.  
-Interested in **Full-Stack Development** & **Cloud Technologies**.  
-Currently learning **Advanced Django + REST APIs + DevOps tools**.  
-Looking to collaborate on open-source projects & innovative ideas.  
-Passionate about software development, problem solving, and building impactful projects.
-
----
-
-## 📊 About Me
-
-- 🔭 **Currently Working On**: Full-stack applications with Django and React.
-- 🌱 **Currently Learning**: Advanced Django, REST APIs, DevOps tools (Docker, AWS).
-- 👯 **Open to Collaborate On**: Open-source projects, innovative web apps, cloud-based solutions.
-- 💬 **Ask Me About**: Python, Django, React, Full-Stack Development.
-- ⚡ **Fun Fact**: I love turning complex problems into simple, elegant code!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+
+- 🔭 Currently working on **AI & Web Development Projects**
+- 🌱 Learning **System Design, GenAI, and Cloud Technologies**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, Python, AI**
+- 📫 Reach me at **your-email@example.com**
+- ⚡ Fun fact: I love building products that solve real-world problems
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://twitter.com/your-twitter" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+<a href="https://portfolio-link.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=webflow" height="40"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
-- **Python** | **JavaScript** | **Java**
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 
-### Frameworks & Libraries
-- **Django** | **React** | **Redux** | **Bootstrap**
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-### Databases & Tools
-- **MySQL** | **PostgreSQL** | **SQLite**
-- **Git** | **GitHub** | **VS Code**
+### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
----
-
-## ✨ Featured Projects
-
-### 1. **E-Commerce Web App**
-   - Full-stack application built with Django and React.
-   - Features: Shopping cart, secure checkout, order tracking, and user authentication.
-   - [Live Demo](https://example.com/demo) | [Repository](https://github.com/Gamana/ecommerce-app)
-
-### 2. **Portfolio Website**
-   - Personal portfolio showcasing projects, skills, and blog.
-   - Built with React and Bootstrap for responsive design.
-   - [Live Demo](https://example.com/portfolio) | [Repository](https://github.com/Gamana/portfolio)
-
-### 3. **Expense Tracker**
-   - Web app to track and visualize income/expenses with interactive charts.
-   - Uses Python/Django backend and React frontend with Chart.js.
-   - [Live Demo](https://example.com/expense-tracker) | [Repository](https://github.com/Gamana/expense-tracker)
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Gamana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamana&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamana&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🤝 Connect With Me
-
-- 📧 Email: gamana@example.com (replace with your email)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/gamana)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gamana&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
-*Inspired by awesome open-source README templates. Last updated: October 13, 2025.*
+## 🔥 Featured Projects
+
+### 🤖 AI Project
+- AI-powered application using LLMs and RAG
+- Tech: Python, LangChain, OpenAI
+
+### 🌐 Full Stack Application
+- Modern web application with authentication
+- Tech: React, Node.js, MongoDB
+
+### 📱 Mobile App
+- Cross-platform mobile application
+- Tech: React Native
+
+---
+
+## 📈 Contribution Graph
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
