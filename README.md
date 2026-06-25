@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋, I'm Gamana
+# Hey there 👋, I'm Gamana!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Products+That+Matter;Always+Learning+Something+New+🚀" />
 
