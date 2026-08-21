@@ -1,34 +1,20 @@
-<div align="center">
-
-# Hey there 👋, I'm Gamana!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Products+That+Matter;Always+Learning+Something+New+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N3M3M2ZWw3dW9vYjB3NXQ0MzNpdnJ4Z2Q0MXF1NTRjYmV5aG1sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-## 🚀 About Me
-
-```yaml
+👋 Hi, I'm Gamana
+<p align="center"> <a href="https://github.com/Gamana"> <img src="https://img.shields.io/badge/GitHub-Gamana-181717?style=for-the-badge&logo=github" /> </a> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%20%7C%20Cloud-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge&logo=googlemaps" /> </p> <p align="center"> <b>Full-Stack Developer • AI/LLM Enthusiast • Cloud & DevOps Learner</b> </p> <p align="center"> I enjoy building practical software, exploring AI-powered applications, designing scalable systems, and turning ideas into working products. </p>
+🧑‍💻 About Me
 name: Gamana
-located_in: India 🇮🇳
-current_focus:
+location: India 🇮🇳
+education: Computer Science
+
+primary_focus:
   - Full Stack Development
   - Artificial Intelligence
   - Cloud Technologies
 
-education:
-  - Computer Science
-
 interests:
-  - Open Source
+  - Generative AI
+  - LLM Engineering
   - System Design
-  - Gen AI
+  - Open Source
   - Startups
 
 currently_learning:
@@ -36,173 +22,232 @@ currently_learning:
   - AWS
   - LLM Engineering
 
-fun_fact:
-  - I turn coffee ☕ into code 💻
-```
+mindset:
+  - Build
+  - Learn
+  - Measure
+  - Improve
+
+🎯 What I Like Building
+🤖 AI-powered applications and intelligent assistants
+🌐 Full-stack web applications and REST APIs
+☁️ Cloud-ready and containerized applications
+🧠 LLM, RAG and AI integration projects
+⚙️ Scalable backend systems
+🔄 CI/CD and developer automation
+📊 Data-driven applications and analytics
+🛠️ Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp" /> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" /> </p>
+AI / Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=python,pytorch" /> </p>
 
-<br/>
+Areas of interest
 
----
+LLMs • RAG • Vector Databases • Prompt Engineering • AI Agents • Generative AI
 
-## 🌐 Connect With Me
+Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=webflow" />
-</a>
-</p>
+Note: Keep this section aligned with technologies you have actually used in projects. Remove anything you cannot confidently discuss in an interview.
 
----
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gamana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamana&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+🔥 Contribution Activity
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamana&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamana&theme=tokyo-night&hide_border=true&area=true" width="95%"/> </p>
+🏆 Developer Snapshot
+Area	Focus
+💻 Development	Full Stack Engineering
+🤖 AI	Generative AI, LLMs, RAG
+☁️ Cloud	AWS & Cloud Architecture
+🐳 DevOps	Docker, CI/CD, Kubernetes
+🧠 Engineering	System Design & APIs
+🌱 Growth	Continuous Learning
+🔓 Community	Open Source
+🚀 Featured Projects
+🤖 AI Assistant
+
+AI-powered assistant focused on intelligent information retrieval and LLM integration.
+
+Highlights
+Retrieval-Augmented Generation architecture
+LLM integration
+Vector database concepts
+Context-aware responses
+API-based architecture
 
-# ⚡ Tech Arsenal
+Tech: Python LLM RAG Vector Database
 
-<div align="center">
+Add your actual repository link here:
+View Project →
 
-### Languages
+🌐 Full-Stack Platform
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+A full-stack application demonstrating modern frontend, backend and database development.
 
-### Frontend
+Highlights
+Authentication & authorization
+REST API architecture
+Database integration
+Real-time functionality
+Responsive frontend
+
+Tech: React Node.js MongoDB
+
+View Project →
+
+☁️ Cloud Deployment
+
+Cloud-oriented application demonstrating containerization and deployment practices.
+
+Highlights
+Dockerized application
+CI/CD pipeline
+Cloud infrastructure
+Deployment automation
+Environment configuration
+
+Tech: AWS Docker GitHub Actions
+
+View Project →
+
+📱 Mobile Application
+
+Cross-platform application focused on clean architecture and API integration.
+
+Highlights
+Cross-platform development
+Clean architecture
+API integration
+Reusable components
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+Tech: React Native
 
-### Backend
+View Project →
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgresql" />
+🧠 Engineering Interests
+Artificial Intelligence
 
-### Cloud & DevOps
+I'm particularly interested in building useful AI systems rather than treating AI as a standalone feature.
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx" />
+Areas I'm exploring:
 
-### Tools
+LLM Applications → RAG → AI Agents → Vector Search → Evaluation → Production AI
+
+System Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Assistant
-
-- RAG-powered chatbot
-- LLM integrations
-- Vector Database
-
-**Tech:** Python, LangChain, OpenAI
-
-</td>
-
-<td width="50%">
-
-### 🌐 Full Stack Platform
-
-- Authentication
-- REST APIs
-- Real-time updates
-
-**Tech:** React, Node.js, MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☁️ Cloud Deployment
-
-- CI/CD Pipeline
-- Dockerized Apps
-- AWS Infrastructure
-
-**Tech:** AWS, Docker
-
-</td>
-
-<td width="50%">
-
-### 📱 Mobile Application
-
-- Cross-platform
-- Clean Architecture
-- API Integrations
-
-**Tech:** React Native
-
-</td>
-</tr>
-</table>
-
----
-
-# 💡 Quote I Live By
-
-<div align="center">
-
-### "First, solve the problem. Then, write the code."
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### If you like my work, consider giving a ⭐ to my repositories
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-</div>
+I enjoy understanding how applications evolve from simple prototypes into reliable systems.
+
+Key areas:
+
+API design
+Database design
+Caching
+Scalability
+Authentication
+Observability
+Distributed systems
+Cloud architecture
+Cloud & DevOps
+
+Currently developing deeper knowledge around:
+
+AWS • Docker • Kubernetes • CI/CD • Infrastructure • Deployment
+
+📈 What I Bring to a Team
+Problem Solving
+      ↓
+Understand the problem
+      ↓
+Design the solution
+      ↓
+Build a working prototype
+      ↓
+Test & measure
+      ↓
+Improve performance
+      ↓
+Deploy & monitor
+
+
+I value clean code, understandable architecture, continuous learning, and practical problem solving.
+
+💡 My Development Philosophy
+
+"First, solve the problem. Then, write the code."
+
+I believe good engineering is not just about writing more code.
+
+It's about:
+
+Understanding the actual problem
+Choosing the right level of complexity
+Building maintainable solutions
+Measuring what matters
+Learning from failures
+Continuously improving
+🎯 Currently Learning
+☁️ AWS & Cloud Architecture
+☸️ Kubernetes
+🤖 LLM Engineering
+🧠 Generative AI
+🏗️ System Design
+⚡ Scalable Backend Architecture
+📚 Interview Preparation
+
+I continuously strengthen my engineering fundamentals across:
+
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Management
+Operating Systems
+Computer Networks
+System Design
+REST API Design
+Cloud Architecture
+AI/LLM Architecture
+🌱 Open Source
+
+I'm interested in contributing to projects involving:
+
+AI • Developer Tools • Cloud • Web Development • Automation • Open Source
+
+If you are building something interesting, feel free to connect.
+
+🤝 Let's Connect
+<p align="center"> <a href="https://github.com/Gamana"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" /> </a> </p>
+⭐ Profile
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gamana&label=Profile%20Views&color=0e75b6&style=flat" /> </p> <p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p> <p align="center"> <i>Building. Learning. Shipping. Improving.</i> </p>
+
+name: Gamana
+location: India 🇮🇳
+education: Computer Science
+
+primary_focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Cloud Technologies
+
+interests:
+  - Generative AI
+  - LLM Engineering
+  - System Design
+  - Open Source
+  - Startups
+
+currently_learning:
+  - Kubernetes
+  - AWS
+  - LLM Engineering
+
+mindset:
+  - Build
+  - Learn
+  - Measure
+  - Improve
