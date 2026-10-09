@@ -6,7 +6,7 @@ location: India 🇮🇳
 education: Computer Science
 
 primary_focus:
-  - Full Stack Development
+  - Full Stack Development 
   - Artificial Intelligence
   - Cloud Technologies
 
