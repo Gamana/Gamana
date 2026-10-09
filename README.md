@@ -229,7 +229,7 @@ name: Gamana
 location: India 🇮🇳
 education: Computer Science
 
-primary_focus:
+primary_focus: 
   - Full Stack Development
   - Artificial Intelligence
   - Cloud Technologies
